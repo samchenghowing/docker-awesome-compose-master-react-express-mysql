@@ -1,5 +1,7 @@
 ## Compose sample application
 ### React application with a NodeJS backend and a MySQL database
+Reference:
+https://github.com/docker/awesome-compose/tree/master/react-express-mysql
 
 Project structure:
 ```
